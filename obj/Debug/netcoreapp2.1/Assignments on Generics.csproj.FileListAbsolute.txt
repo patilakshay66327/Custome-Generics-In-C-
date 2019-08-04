@@ -1,0 +1,11 @@
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\bin\Debug\netcoreapp2.1\Assignments on Generics.deps.json
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\bin\Debug\netcoreapp2.1\Assignments on Generics.runtimeconfig.json
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\bin\Debug\netcoreapp2.1\Assignments on Generics.runtimeconfig.dev.json
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\bin\Debug\netcoreapp2.1\Assignments on Generics.dll
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\bin\Debug\netcoreapp2.1\Assignments on Generics.pdb
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\obj\Debug\netcoreapp2.1\Assignments on Generics.csprojAssemblyReference.cache
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\obj\Debug\netcoreapp2.1\Assignments on Generics.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\obj\Debug\netcoreapp2.1\Assignments on Generics.AssemblyInfoInputs.cache
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\obj\Debug\netcoreapp2.1\Assignments on Generics.AssemblyInfo.cs
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\obj\Debug\netcoreapp2.1\Assignments on Generics.dll
+C:\Users\OWNER\source\repos\Assignments on Generics\Assignments on Generics\obj\Debug\netcoreapp2.1\Assignments on Generics.pdb
